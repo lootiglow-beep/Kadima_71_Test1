@@ -1,5 +1,7 @@
 {
   "name": "פורטל ניהול ומדיה",
   "description": "פלטפורמת ניהול אישית עם נגן מוזיקה מובנה, הטמעת תכנים חיצוניים (Forms, Sheets) ותמיכה מלאה בעברית.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
